@@ -9,7 +9,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 // git project https://github.com/erikflowers/weather-icons
 import Weather from "./components/Weather";
 
-const API_key = "4ef8b682bc8c59b4e33f4f48ae139887";
+const API_key = process.env.REACT_APP_API_KEY;
 
 class App extends React.Component {
 	constructor() {
@@ -104,7 +104,6 @@ class App extends React.Component {
 	render() {
 		return (
 			<div className="App">
-			
 				<Form loadweather={this.getWeather} error={this.state.error} />
 				<Weather
 					city={this.state.city}
