@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/temperatura-app/static/css/main.250cdb20.chunk.css",
-    "main.js": "/temperatura-app/static/js/main.01733357.chunk.js",
-    "main.js.map": "/temperatura-app/static/js/main.01733357.chunk.js.map",
+    "main.js": "/temperatura-app/static/js/main.25f6a57d.chunk.js",
+    "main.js.map": "/temperatura-app/static/js/main.25f6a57d.chunk.js.map",
     "runtime-main.js": "/temperatura-app/static/js/runtime-main.5472ce7a.js",
     "runtime-main.js.map": "/temperatura-app/static/js/runtime-main.5472ce7a.js.map",
     "static/css/2.e77ba209.chunk.css": "/temperatura-app/static/css/2.e77ba209.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.e77ba209.chunk.css",
     "static/js/2.cc4568ff.chunk.js",
     "static/css/main.250cdb20.chunk.css",
-    "static/js/main.01733357.chunk.js"
+    "static/js/main.25f6a57d.chunk.js"
   ]
 }
