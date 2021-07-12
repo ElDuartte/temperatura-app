@@ -9,7 +9,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 // git project https://github.com/erikflowers/weather-icons
 import Weather from "./components/Weather";
 
-const API_key = process.env.REACT_APP_API_KEY;
+// const API_key = process.env.REACT_APP_API_KEY;
 
 class App extends React.Component {
 	constructor() {
@@ -79,7 +79,7 @@ class App extends React.Component {
 
 		if (city && country) {
 			const api_call = await fetch(
-				`http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_key}&lang=es`
+				`http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${process.env.REACT_APP_API_KEY}&lang=es`
 			);
 			const response = await api_call.json();
 
