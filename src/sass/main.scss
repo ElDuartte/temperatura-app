@@ -1,11 +1,15 @@
 * {
-	background-color: #181818;
-	color: white;
+	// background-color: #5cdb95;
+	background-color: #97caef;
+	color: #05386b;
 	font-family: "Nunito", sans-serif;
 	font-weight: 400;
 }
 
 .title,
 h1 {
+	color: #fff !important;
 	font-weight: 900 !important;
+	text-shadow: -1px -1px 1px rgba(255, 255, 255, 0.1),
+		1px 1px 1px rgba(0, 0, 0, 0.5), 2px 2px 2px rgba(206, 89, 55, 0);
 }

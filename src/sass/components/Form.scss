@@ -5,13 +5,17 @@ form {
 form input[name="city"],
 form input[name="country"] {
 	background-color: transparent;
-	color: white;
+	color: #05386b;
 	border: none;
-	border-bottom: 2px solid whitesmoke;
+	border-bottom: 2px solid #379683;
 	border-radius: 0;
 }
 
 .btn {
+	background-color: #05386b !important;
+	color: #fff;
+	border: none !important;
+	cursor: pointer;
 	// Small devices (landscape phones, 576px and up)
 	@media (max-width: 576px) {
 		width: 100%;
@@ -19,4 +23,8 @@ form input[name="country"] {
 	@media (max-width: 768px) {
 		width: 100%;
 	}
+}
+
+.btn:focus {
+	border: none !important;
 }
