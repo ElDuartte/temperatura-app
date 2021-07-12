@@ -1,0 +1,22 @@
+form {
+	margin-top: 1.5rem;
+}
+
+form input[name="city"],
+form input[name="country"] {
+	background-color: transparent;
+	color: white;
+	border: none;
+	border-bottom: 2px solid whitesmoke;
+	border-radius: 0;
+}
+
+.btn {
+	// Small devices (landscape phones, 576px and up)
+	@media (max-width: 576px) {
+		width: 100%;
+	}
+	@media (max-width: 768px) {
+		width: 100%;
+	}
+}
