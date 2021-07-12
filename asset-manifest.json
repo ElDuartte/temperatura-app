@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portafolio-V1/static/css/main.250cdb20.chunk.css",
-    "main.js": "/portafolio-V1/static/js/main.01733357.chunk.js",
-    "main.js.map": "/portafolio-V1/static/js/main.01733357.chunk.js.map",
-    "runtime-main.js": "/portafolio-V1/static/js/runtime-main.b77be737.js",
-    "runtime-main.js.map": "/portafolio-V1/static/js/runtime-main.b77be737.js.map",
-    "static/css/2.7b537a67.chunk.css": "/portafolio-V1/static/css/2.7b537a67.chunk.css",
-    "static/js/2.cc4568ff.chunk.js": "/portafolio-V1/static/js/2.cc4568ff.chunk.js",
-    "static/js/2.cc4568ff.chunk.js.map": "/portafolio-V1/static/js/2.cc4568ff.chunk.js.map",
-    "index.html": "/portafolio-V1/index.html",
-    "static/css/2.7b537a67.chunk.css.map": "/portafolio-V1/static/css/2.7b537a67.chunk.css.map",
-    "static/css/main.250cdb20.chunk.css.map": "/portafolio-V1/static/css/main.250cdb20.chunk.css.map",
-    "static/js/2.cc4568ff.chunk.js.LICENSE.txt": "/portafolio-V1/static/js/2.cc4568ff.chunk.js.LICENSE.txt",
-    "static/media/weather-icons.css": "/portafolio-V1/static/media/weathericons-regular-webfont.e218aee6.woff2"
+    "main.css": "/temperatura-app/static/css/main.250cdb20.chunk.css",
+    "main.js": "/temperatura-app/static/js/main.01733357.chunk.js",
+    "main.js.map": "/temperatura-app/static/js/main.01733357.chunk.js.map",
+    "runtime-main.js": "/temperatura-app/static/js/runtime-main.5472ce7a.js",
+    "runtime-main.js.map": "/temperatura-app/static/js/runtime-main.5472ce7a.js.map",
+    "static/css/2.e77ba209.chunk.css": "/temperatura-app/static/css/2.e77ba209.chunk.css",
+    "static/js/2.cc4568ff.chunk.js": "/temperatura-app/static/js/2.cc4568ff.chunk.js",
+    "static/js/2.cc4568ff.chunk.js.map": "/temperatura-app/static/js/2.cc4568ff.chunk.js.map",
+    "index.html": "/temperatura-app/index.html",
+    "static/css/2.e77ba209.chunk.css.map": "/temperatura-app/static/css/2.e77ba209.chunk.css.map",
+    "static/css/main.250cdb20.chunk.css.map": "/temperatura-app/static/css/main.250cdb20.chunk.css.map",
+    "static/js/2.cc4568ff.chunk.js.LICENSE.txt": "/temperatura-app/static/js/2.cc4568ff.chunk.js.LICENSE.txt",
+    "static/media/weather-icons.css": "/temperatura-app/static/media/weathericons-regular-webfont.e218aee6.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.b77be737.js",
-    "static/css/2.7b537a67.chunk.css",
+    "static/js/runtime-main.5472ce7a.js",
+    "static/css/2.e77ba209.chunk.css",
     "static/js/2.cc4568ff.chunk.js",
     "static/css/main.250cdb20.chunk.css",
     "static/js/main.01733357.chunk.js"
